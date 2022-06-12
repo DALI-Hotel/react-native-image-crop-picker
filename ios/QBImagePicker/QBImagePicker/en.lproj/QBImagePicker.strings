@@ -6,18 +6,16 @@
   Copyright (c) 2015 Katsuma Tanaka. All rights reserved.
 */
 
-"albums.title" = "사진";
+"albums.title" = "갤러리";
 
-/*
-"assets.footer.photo" = "%ld개의 사진";
-"assets.footer.photos" = "%ld개의 사진";
-"assets.footer.video" = "%ld개의 동영상";
-"assets.footer.videos" = "%ld개의 동영상";
-"assets.footer.photo-and-video" = "%ld개의 사진, %ld개의 동영상";
-"assets.footer.photos-and-video" = "%ld개의 사진, %ld개의 동영상";
-"assets.footer.photo-and-videos" = "%ld개의 사진, %ld개의 동영상";
-"assets.footer.photos-and-videos" = "%ld개의 사진, %ld개의 동영상";
-*/
+"assets.footer.photo" = "";
+"assets.footer.photos" = "";
+"assets.footer.video" = "";
+"assets.footer.videos" = "";
+"assets.footer.photo-and-video" = "";
+"assets.footer.photos-and-video" = "";
+"assets.footer.photo-and-videos" = "";
+"assets.footer.photos-and-videos" = "";
 
 "assets.toolbar.item-selected" = "%ld개의 사진이 선택됐습니다.";
 "assets.toolbar.items-selected" = "%ld개의 사진이 선택됐습니다.";
