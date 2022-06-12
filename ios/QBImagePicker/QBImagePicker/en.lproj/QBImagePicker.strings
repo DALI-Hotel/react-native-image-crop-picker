@@ -6,23 +6,25 @@
   Copyright (c) 2015 Katsuma Tanaka. All rights reserved.
 */
 
-"albums.title" = "Photos";
+"albums.title" = "사진";
 
-"assets.footer.photo" = "%ld Photo";
-"assets.footer.photos" = "%ld Photos";
-"assets.footer.video" = "%ld Video";
-"assets.footer.videos" = "%ld Videos";
-"assets.footer.photo-and-video" = "%ld Photo, %ld Video";
-"assets.footer.photos-and-video" = "%ld Photos, %ld Video";
-"assets.footer.photo-and-videos" = "%ld Photo, %ld Videos";
-"assets.footer.photos-and-videos" = "%ld Photos, %ld Videos";
+/*
+"assets.footer.photo" = "%ld개의 사진";
+"assets.footer.photos" = "%ld개의 사진";
+"assets.footer.video" = "%ld개의 동영상";
+"assets.footer.videos" = "%ld개의 동영상";
+"assets.footer.photo-and-video" = "%ld개의 사진, %ld개의 동영상";
+"assets.footer.photos-and-video" = "%ld개의 사진, %ld개의 동영상";
+"assets.footer.photo-and-videos" = "%ld개의 사진, %ld개의 동영상";
+"assets.footer.photos-and-videos" = "%ld개의 사진, %ld개의 동영상";
+*/
 
-"assets.toolbar.item-selected" = "%ld Item Selected";
-"assets.toolbar.items-selected" = "%ld Items Selected";
+"assets.toolbar.item-selected" = "%ld개의 사진이 선택됐습니다.";
+"assets.toolbar.items-selected" = "%ld개의 사진이 선택됐습니다.";
 
-"permission.help" = "You have given permission to a limited number of selected photos and videos.";
-"permission.manage" = "MANAGE";
-"permission.title" = "To access all your photos in the app, give access to your full library in the device settings.";
-"permission.choose_more" = "Select More Photos";
-"permission.change_settings" = "Change Settings";
-"permission.cancel" = "Cancel";
+"permission.help" = "선택한 사진 및 동영상의 수에 대해 제한적인 권한을 부여했습니다.";
+"permission.manage" = "관리";
+"permission.title" = "앱에 있는 모든 사진에 액세스하려면 디바이스 설정에서 전체 라이브러리에 액세스 권한을 부여해주세요.";
+"permission.choose_more" = "더 많은 사진을 선택해주세요";
+"permission.change_settings" = "설정 변경";
+"permission.cancel" = "취소";
